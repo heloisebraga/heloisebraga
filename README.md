@@ -1,9 +1,10 @@
+![logo](https://github.com/helllow797/helllow797/assets/77672988/09f465cd-08fb-4acd-aa73-cb4df9c63e40)
+
 <h1 align="center">Hi 👋, I'm heloise braga</h1>
 <h2 align="center">A passionate developer</h3>
 
 <img align="right" alt="coding" width="400" src"![image](https://github.com/helllow797/helllow797/assets/77672988/b73d7ae3-d8d1-49e6-aafe-101b07b36366)
 ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
 
 - ⚡ Fun fact **javalover**
