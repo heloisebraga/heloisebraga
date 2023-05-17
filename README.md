@@ -1,4 +1,4 @@
-![logo](https://github.com/helllow797/helllow797/assets/77672988/09f465cd-08fb-4acd-aa73-cb4df9c63e40)
+![logo](https://github.com/helllow797/helllow797/assets/77672988/5e7dc47b-a5b0-4a6b-abc9-254c28f60b49)
 <h1 align="center">Hi 👋, I'm heloise braga</h1>
 <h2 align="center">A passionate developer</h3>
 
