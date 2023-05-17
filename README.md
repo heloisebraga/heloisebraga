@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://github.com/helllow797/helllow797/assets/77672988/e2ee53d7-21ff-4e17-bd61-a0f3369f9d4e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
-
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 - ⚡ Fun fact **javalover**
 
 <h3 align="left">Connect with me:</h3>
