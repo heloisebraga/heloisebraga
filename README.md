@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm heloise braga</h1>
 <h2 align="center">A passionate developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/helllow797/helllow797/assets/77672988/a80c96eb-2767-4083-b13e-7d0c6002c398">
+<img align="right" alt="coding" width="300" src="https://github.com/helllow797/helllow797/assets/77672988/e2ee53d7-21ff-4e17-bd61-a0f3369f9d4e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
 
