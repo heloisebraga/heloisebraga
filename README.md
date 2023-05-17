@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm heloise braga</h1>
 <h2 align="center">A passionate developer</h3>
 
-<img align="right" alt="coding" width="400" src"![image](https://github.com/helllow797/helllow797/assets/77672988/b73d7ae3-d8d1-49e6-aafe-101b07b36366)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
 
 - ⚡ Fun fact **javalover**
