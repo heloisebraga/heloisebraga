@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm heloise braga</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" alt="coding" width="400" src"https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+<img align="right" alt="coding" width="400" src"![image](https://github.com/helllow797/helllow797/assets/77672988/2931c45f-8979-4fea-83fe-8d0321c6b8d1)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
 
