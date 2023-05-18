@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm heloise braga</h1>
-<h4 align="center">A passionate developer☕</h3>
+<h4 align="left">A passionate developer☕</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/helllow797/helllow797/assets/77672988/e2ee53d7-21ff-4e17-bd61-a0f3369f9d4e">
 
