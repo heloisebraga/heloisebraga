@@ -1,7 +1,8 @@
 <h1 align="center"> Hi, I'm heloise braga</h1>
 <h4 align="left">A passionate developer☕</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/helllow797/helllow797/assets/77672988/e2ee53d7-21ff-4e17-bd61-a0f3369f9d4e">
+<img align="right" alt="coding" width="200" src="https://github.com/helllow797/helllow797/assets/77672988/4ceb144e-2c9b-4627-b3d5-3be8f2704eec.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
