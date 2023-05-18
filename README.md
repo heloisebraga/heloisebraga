@@ -1,8 +1,8 @@
-![logo](https://github.com/helllow797/helllow797/assets/77672988/5e7dc47b-a5b0-4a6b-abc9-254c28f60b49) 
 <h1 align="center"> Hi, I'm heloise braga</h1>
 <h4 align="center">A passionate developer☕</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/helllow797/helllow797/assets/77672988/e2ee53d7-21ff-4e17-bd61-a0f3369f9d4e">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/heloisebraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heloisebraga" height="30" width="40" /></a>
