@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm heloise braga</h1>
 <h4 align="left">A passionate developer☕</h3>
 
-<img align="right" alt="coding" width="200" src="https://github.com/helllow797/helllow797/assets/77672988/4ceb144e-2c9b-4627-b3d5-3be8f2704eec.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/heloisebraga/heloisebraga/assets/77672988/4ceb144e-2c9b-4627-b3d5-3be8f2704eec.gif">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/heloisebraga9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heloisebraga9" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helllow797&label=Profile%20views&color=0e75b6&style=flat" alt="helllow797" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heloisebraga&label=Profile%20views&color=0e75b6&style=flat" alt="heloisebraga" /> </p>
 <img height="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 
